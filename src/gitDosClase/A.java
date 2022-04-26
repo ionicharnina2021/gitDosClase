@@ -7,4 +7,5 @@ int tres;
 int cuatro;
 int seis;
 int siete;
+int nueve;
 }
