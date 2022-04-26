@@ -5,4 +5,5 @@ int uhno;
 int dos;
 int tres;
 int cuatro;
+int seis;
 }
