@@ -6,4 +6,5 @@ int dos;
 int tres;
 int cuatro;
 int seis;
+int siete;
 }
